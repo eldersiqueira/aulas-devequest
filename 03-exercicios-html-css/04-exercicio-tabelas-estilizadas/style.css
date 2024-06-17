@@ -1,0 +1,21 @@
+body{
+    color: #fff;
+}
+
+.tabela-estilizada, th, td{
+    border-collapse: collapse;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #fff;
+    
+    
+}
+
+.tabela-estilizada, th{
+    
+    background-color: #BB86FC;
+}
+
+.tabela-estilizada, td{
+    background-color: #424250;
+}
