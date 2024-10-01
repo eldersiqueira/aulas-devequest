@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-image: url('./image/icons8-aprovação-48.png');
+
+    list-style: square inside url('./image/icons8-aprovação-48.png');
+
+    background-color: orange;
+
+}
+
+ul li {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+ol {
+    /* list-style-image: url('./image/icons8-aprovação-48.png'); */
+
+    list-style: square inside url('./image/icons8-aprovação-48.png');
+
+    background-color: red;
+
+}
+
+ol li {
+    border: 1px solid black;
+    padding: 20px;
+}
